@@ -1,0 +1,13 @@
+"./src/app/main-home/css/bootstrap.css"
+"./src/app/main-homevendors/linericon/style.css"
+"./src/app/main-homecss/font-awesome.min.css"
+"./src/app/main-homevendors/owl-carousel/owl.carousel.min.css"
+"./src/app/main-homevendors/lightbox/simpleLightbox.css"
+"./src/app/main-homevendors/nice-select/css/nice-select.css"
+"./src/app/main-homevendors/animate-css/animate.css"
+"./src/app/main-homevendors/popup/magnific-popup.css"
+"./src/app/main-homevendors/swiper/css/swiper.min.css"
+"./src/app/main-home"
+<!-- main css --
+"./src/app/main-homecss/style.css"
+link rel="stylesheet" href="css/responsive.css"
